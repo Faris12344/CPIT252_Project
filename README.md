@@ -1,4 +1,4 @@
-# CPIT252_Project
+# CPIT252_Project (ScheduleIT)
 Creational Pattern (Done)
 
 Structural Pattern (In Progress)
