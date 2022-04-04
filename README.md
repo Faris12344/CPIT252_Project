@@ -6,5 +6,5 @@
 Project Progress
 (#############--------------------) %40
 =======================================
-Faris Mohammed Alnahdi
+Faris Mohammed Alnahdi\n
 Abdulrahman Khaled Alomari
