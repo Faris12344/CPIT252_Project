@@ -4,7 +4,7 @@
 3-Behavioral Pattern (In Progress)
 
 Project Progress
-(########               ) %40
-----------------------------------
+(#############--------------------) %40
+=======================================
 Faris Mohammed Alnahdi
 Abdulrahman Khaled Alomari
